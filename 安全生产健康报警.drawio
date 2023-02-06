@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T03:48:50.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="870jXZ8c-U087AeZRBeS" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T03:54:26.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="fPMJeLOUlq8C33FfNj5W" version="20.8.13" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -19,6 +19,10 @@
         <mxCell id="mmImKOxBRJz25gbyXTxN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mmImKOxBRJz25gbyXTxN-4" target="mmImKOxBRJz25gbyXTxN-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="390" />
+              <mxPoint x="430" y="350" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mmImKOxBRJz25gbyXTxN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mmImKOxBRJz25gbyXTxN-4" target="mmImKOxBRJz25gbyXTxN-6">
@@ -56,11 +60,16 @@
         <mxCell id="mmImKOxBRJz25gbyXTxN-12" value="静息状态判断表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mmImKOxBRJz25gbyXTxN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mmImKOxBRJz25gbyXTxN-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mmImKOxBRJz25gbyXTxN-15" value="根据时间判断出条数" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mmImKOxBRJz25gbyXTxN-17" value="配置：&lt;br&gt;手表每五分钟传递&lt;br&gt;脑机每20毫秒传递" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
