@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-06T08:45:11.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TzJTY6YuNX4ot4MWQ9Mk" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-06T09:21:35.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="plqwN05J9D6Dkw2Wdooh" version="22.1.17" type="github">
   <diagram name="第 1 页" id="hNd8IGxKqOMO5UHQAU7P">
-    <mxGraphModel dx="1290" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1518" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
         <mxCell id="7RYqgwOQuKAIuGyDavR--13" value="购书申请管理" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="780" y="280" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7RYqgwOQuKAIuGyDavR--14" value="开证明管理" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;direction=east;" parent="1" vertex="1">
+        <mxCell id="7RYqgwOQuKAIuGyDavR--14" value="邮箱系统对接管理" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="1060" y="270" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7RYqgwOQuKAIuGyDavR--15" value="网上支付功能" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;direction=east;" parent="1" vertex="1">
