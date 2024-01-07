@@ -1,65 +1,102 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T02:47:57.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2KrPvgDkw_P7QtBEyI4B" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-07T02:51:04.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XCNuu40HF0nG8WvaL3VT" version="22.1.17" type="github">
   <diagram name="第 1 页" id="XgROoRd89MgLgh6RIzpX">
-    <mxGraphModel dx="1290" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1843" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VDXFLvsK-3dGspb30Lse-3" value="登陆" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VDXFLvsK-3dGspb30Lse-3" value="登陆" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="730" y="260" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VDXFLvsK-3dGspb30Lse-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="VDXFLvsK-3dGspb30Lse-6" target="VDXFLvsK-3dGspb30Lse-7">
+        <mxCell id="VDXFLvsK-3dGspb30Lse-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="VDXFLvsK-3dGspb30Lse-6" target="VDXFLvsK-3dGspb30Lse-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VDXFLvsK-3dGspb30Lse-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VDXFLvsK-3dGspb30Lse-6" target="VDXFLvsK-3dGspb30Lse-3">
+        <mxCell id="VDXFLvsK-3dGspb30Lse-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VDXFLvsK-3dGspb30Lse-6" target="VDXFLvsK-3dGspb30Lse-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VDXFLvsK-3dGspb30Lse-6" value="用户管理&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VDXFLvsK-3dGspb30Lse-6" value="用户管理&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="380" y="190" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VDXFLvsK-3dGspb30Lse-7" value="注册" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VDXFLvsK-3dGspb30Lse-7" value="注册" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="730" y="80" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VDXFLvsK-3dGspb30Lse-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="VDXFLvsK-3dGspb30Lse-14" target="VDXFLvsK-3dGspb30Lse-6">
+        <mxCell id="VDXFLvsK-3dGspb30Lse-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="VDXFLvsK-3dGspb30Lse-14" target="VDXFLvsK-3dGspb30Lse-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VDXFLvsK-3dGspb30Lse-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VDXFLvsK-3dGspb30Lse-14" target="VDXFLvsK-3dGspb30Lse-15">
+        <mxCell id="VDXFLvsK-3dGspb30Lse-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VDXFLvsK-3dGspb30Lse-14" target="VDXFLvsK-3dGspb30Lse-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VDXFLvsK-3dGspb30Lse-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VDXFLvsK-3dGspb30Lse-14" target="VDXFLvsK-3dGspb30Lse-16">
+        <mxCell id="VDXFLvsK-3dGspb30Lse-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VDXFLvsK-3dGspb30Lse-14" target="VDXFLvsK-3dGspb30Lse-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VDXFLvsK-3dGspb30Lse-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VDXFLvsK-3dGspb30Lse-14" target="VDXFLvsK-3dGspb30Lse-17">
+        <mxCell id="VDXFLvsK-3dGspb30Lse-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VDXFLvsK-3dGspb30Lse-14" target="VDXFLvsK-3dGspb30Lse-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="800" as="targetPoint" />
             <Array as="points">
               <mxPoint x="330" y="525" />
-              <mxPoint x="330" y="795" />
+              <mxPoint x="330" y="760" />
+              <mxPoint x="380" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VDXFLvsK-3dGspb30Lse-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VDXFLvsK-3dGspb30Lse-14" target="VDXFLvsK-3dGspb30Lse-18">
+        <mxCell id="VDXFLvsK-3dGspb30Lse-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VDXFLvsK-3dGspb30Lse-14" target="VDXFLvsK-3dGspb30Lse-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VDXFLvsK-3dGspb30Lse-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="VDXFLvsK-3dGspb30Lse-14" target="VDXFLvsK-3dGspb30Lse-19">
+        <mxCell id="VDXFLvsK-3dGspb30Lse-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="VDXFLvsK-3dGspb30Lse-14" target="VDXFLvsK-3dGspb30Lse-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VDXFLvsK-3dGspb30Lse-14" value="垃圾分类系统后端功能结构图" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VDXFLvsK-3dGspb30Lse-14" value="垃圾分类系统后端功能结构图" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="80" y="500" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VDXFLvsK-3dGspb30Lse-15" value="垃圾分类管理" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;direction=east;" vertex="1" parent="1">
+        <mxCell id="eqX9Y0A--byFGxQebcT9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VDXFLvsK-3dGspb30Lse-15" target="eqX9Y0A--byFGxQebcT9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX9Y0A--byFGxQebcT9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VDXFLvsK-3dGspb30Lse-15" target="eqX9Y0A--byFGxQebcT9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX9Y0A--byFGxQebcT9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="VDXFLvsK-3dGspb30Lse-15" target="eqX9Y0A--byFGxQebcT9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDXFLvsK-3dGspb30Lse-15" value="垃圾分类管理" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="380" y="460" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VDXFLvsK-3dGspb30Lse-16" value="&amp;nbsp;垃圾投放记录处理" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="380" y="630" width="200" height="50" as="geometry" />
+        <mxCell id="eqX9Y0A--byFGxQebcT9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="VDXFLvsK-3dGspb30Lse-16" target="eqX9Y0A--byFGxQebcT9-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VDXFLvsK-3dGspb30Lse-17" value="积分/奖励系统处理" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="380" y="770" width="200" height="50" as="geometry" />
+        <mxCell id="eqX9Y0A--byFGxQebcT9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="VDXFLvsK-3dGspb30Lse-16" target="eqX9Y0A--byFGxQebcT9-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VDXFLvsK-3dGspb30Lse-18" value="数据分析与报告" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="380" y="920" width="200" height="50" as="geometry" />
+        <mxCell id="eqX9Y0A--byFGxQebcT9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VDXFLvsK-3dGspb30Lse-16" target="eqX9Y0A--byFGxQebcT9-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VDXFLvsK-3dGspb30Lse-19" value="系统设置与维护" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1050" width="200" height="50" as="geometry" />
+        <mxCell id="VDXFLvsK-3dGspb30Lse-16" value="&amp;nbsp;垃圾投放记录处理" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;direction=east;" parent="1" vertex="1">
+          <mxGeometry x="380" y="1130" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VDXFLvsK-3dGspb30Lse-17" value="积分/奖励系统处理" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;direction=east;" parent="1" vertex="1">
+          <mxGeometry x="380" y="730" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VDXFLvsK-3dGspb30Lse-18" value="数据分析与报告" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;direction=east;" parent="1" vertex="1">
+          <mxGeometry x="380" y="880" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VDXFLvsK-3dGspb30Lse-19" value="系统设置与维护" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;direction=east;" parent="1" vertex="1">
+          <mxGeometry x="380" y="1000" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX9Y0A--byFGxQebcT9-1" value="厨余垃圾" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="730" y="400" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX9Y0A--byFGxQebcT9-2" value="可回收垃圾" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=0;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="730" y="535" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX9Y0A--byFGxQebcT9-3" value="有害垃圾" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="730" y="660" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX9Y0A--byFGxQebcT9-7" value="垃圾类型" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="730" y="970" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX9Y0A--byFGxQebcT9-8" value="数量统计" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1080" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX9Y0A--byFGxQebcT9-9" value="投放时间段分析" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1180" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
